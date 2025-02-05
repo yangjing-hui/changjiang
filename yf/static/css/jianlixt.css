@@ -1,0 +1,7 @@
+/*实时画面*/
+.center_zs{ width:30%;}
+.box1-back{height:600px;background-image:-webkit-radial-gradient(250px 250px at 50% 50%,hsla(209,99%,32%,28),hsla(228,100%,0%,0));background-image:radial-gradient(250px 250px at 50% 50%,hsla(209,99%,32%,28),hsla(228,100%,0%,0))}
+
+/*右侧项目管理展示 */
+.xmcggl{width:480px;height:325px;}
+.data-botton{width:480px;height:325px;}
